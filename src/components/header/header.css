@@ -1,0 +1,29 @@
+/* Elements */
+
+body {
+    background-color: #4f6457bd;
+}
+footer {
+    opacity: 60%;
+}
+h1 {
+    font-family: 'Patua One', cursive;
+}
+p {
+    font-family: 'Maven Pro', sans-serif;
+}
+a {
+    color:#4f6457;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+a:hover{
+    text-decoration: none;
+    color: #d9b44a;
+}
+
+/* Classes */
+.headerimg {
+max-width: 300px;
+}
+

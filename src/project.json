@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "pic": "https://raw.githubusercontent.com/danacorona/danacorona.github.io/main/images/MainPage.png",
+        "projectname": "Project Spot",
+        "projectinfo": "Rescue Spot was created to help the user search for dogs that are available for adoption in their desired area with their zip code. Not only does it allow the user to find dogs, but it also allows the user to see local dog parks to enjoy with their newly adopted pet.",
+        "site": "https://dcastelline.github.io/Project-1-Rescue-Spot/",
+        "gh": "https://github.com/danacorona/Project-1-Rescue-Spot"
+    },
+    {
+        "id": 2,
+        "pic": "https://raw.githubusercontent.com/danacorona/danacorona.github.io/main/images/MenuMaqr.png",
+        "projectname": "Menu Maq'r",
+        "projectinfo": "Menu MaQ'R was created to help small restaurants to create a QR code that links to a generated menu for theirrestaurants. This will allow customers to view the restaurants menu via their mobile device by scanning the QR code and helps to minimize the spread of COVID from regular menus.",
+        "site": "https://menumaqr.herokuapp.com/index.html",
+        "gh": "https://github.com/danacorona/UTA_BootCamp_Project_2"
+    },
+    {
+        "id": 3,
+        "pic": "https://github.com/danacorona/Progressive-Budget/blob/main/BTWalkthrough.gif?raw=true",
+        "projectname": "Progressive Budget",
+        "projectinfo": "With this Progressive Budget Tracker, the user will be able to add deposits and expenses to their budget with or without connection. If the user happens to have a drop connection and goes offline, once they are back online, their data that they submitted will be saved once back online.",
+        "site": "https://warm-basin-15742.herokuapp.com/",
+        "gh": "https://github.com/danacorona/Progressive-Budget"
+    },
+    {
+        "id": 4,
+        "pic": "https://github.com/danacorona/Fitness-Tracker/blob/main/Fitnesstracker.gif?raw=true",
+        "projectname": "Fitness Tracker",
+        "projectinfo": "This project allows our user to create their workout routine and see their weekly progress and stats of their workouts. It allows the user to be more efficient with their workouts and challenge themselves!",
+        "site": "https://rocky-garden-10442.herokuapp.com/?id=60557723a6effb001593ab4a",
+        "gh": "https://github.com/danacorona/Fitness-Tracker"
+    },
+    {
+        "id": 5,
+        "pic": "https://raw.githubusercontent.com/danacorona/danacorona.github.io/main/images/Weather-Dashboard.png",
+        "projectname": "Weather Dashboard",
+        "projectinfo": "This weather dashboard was created for the user to be able to put in a city into the search area and find out the current weather for said city. It will give the user the temperature, humidity, windspeed, and will let the user know the UVI conditions via color coding. The user will also see the forecast for the next 5 days as well.",
+        "site": "https://danacorona.github.io/Weather-Dashboard/",
+        "gh": "https://github.com/danacorona/Weather-Dashboard"
+    },
+    {
+        "id": 6,
+        "pic": "https://github.com/danacorona/danacorona.github.io/blob/main/images/planner.png?raw=true",
+        "projectname": "Day Planner",
+        "projectinfo": "Day Planner was created to help our user to schedule and add their events for their work day. The events are saved on local storage which allows the user to retain the items even if the page has been refreshed.",
+        "site": "https://danacorona.github.io/Day-Planner/",
+        "gh": "https://github.com/danacorona/Day-Planner"
+    }
+    
+    
+]
