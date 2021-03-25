@@ -3,4 +3,4 @@ Building websites has been a dream of mine for a long time and I'm excited to be
 [View My Portfolio Here](https://dana-corona.herokuapp.com/)
 
 ## Created using React
-![An Image of My Portfolio](./images/PortfolioMain1.png)
+![An Image of My Portfolio](./images/Dana Corona.gif)
